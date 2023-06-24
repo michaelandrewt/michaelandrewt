@@ -1,4 +1,4 @@
-# Hello, I'm [Your Name] 👋
+# Hello, I'm Khang Ta👋
 
 Welcome to my GitHub profile! I'm a self-taught software engineer with a passion for backend development, a love for Taylor Swift's music, and a thrill seeker when it comes to skydiving and snowboarding. Let's dive into my world of coding and adventures!
 
@@ -40,8 +40,7 @@ I believe in the power of open source and collaborative development. Here are so
 
 ## Get in Touch
 
-- 📫 You can reach me via email at your-email@example.com
-- 🌐 Connect with me on [LinkedIn](https://www.linkedin.com/in/your-username/)
-- 🐦 Follow me on [Twitter](https://twitter.com/your-username/)
+- 📫 You can reach me via email at your michaelandrewta@gmail.com
+- 🌐 Connect with me on [LinkedIn](https://www.linkedin.com/in/michaelandrew-ta/)
 
 Feel free to explore my repositories, dive into my code, and join me on this exciting journey of software engineering and thrilling adventures!
