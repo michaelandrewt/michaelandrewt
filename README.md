@@ -53,6 +53,6 @@ I believe in the power of open source and collaborative development. Here are so
 ## Get in Touch
 
 - 📫 You can reach me via email at your michaelandrewta@gmail.com
-- 🌐 Connect with me on [LinkedIn](https://www.linkedin.com/in/michaelandrew-ta/)
+- 🌐 Connect with me on [LinkedIn](https://www.linkedin.com/in/michael-khang-ta/)
 
 Feel free to explore my repositories, dive into my code, and join me on this exciting journey of software engineering and thrilling adventures!
