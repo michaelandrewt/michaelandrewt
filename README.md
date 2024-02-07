@@ -1,6 +1,6 @@
 # Hello, I'm Khang Ta👋
 
-Welcome to my GitHub profile! I'm a self-taught software engineer with a passion for backend development, a love for Taylor Swift's music, and a thrill seeker when it comes to skydiving and snowboarding. Let's dive into my world of coding and adventures!
+Welcome to my GitHub profile! I'm a self-taught software engineer and a student of economics. Dive into my world of technology and economic insights!
 
 ## About Me
 
@@ -15,7 +15,7 @@ Welcome to my GitHub profile! I'm a self-taught software engineer with a passion
 - **Web Development:** HTML, CSS, JavaScript, Node.js
 - **Backend Development:** REST APIs, SQL, MongoDB, Express.js
 - **Version Control:** Git, GitHub
-- **Software Engineering:** Object-Oriented Programming, Data Structures, Algorithms
+- **Software Engineering:** Object-Oriented Programming, Data Structures, Algorithms, System Design
 
 ## Projects
 
